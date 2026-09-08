@@ -1,6 +1,6 @@
 Hello! 👋
 
-Welcome to my profile. I'm a Computer Science student and backend developer focused on software engineering, cybersecurity, networking, and systems.
+This is my profile page. I am a Computer Science student specializing in Software Engineering, Cyber Security, Networking, and Systems.
 
 Let's connect
 <ul>
