@@ -4,7 +4,7 @@ Welcome to my profile. I'm a Computer Science student and backend developer focu
 
 Let's connect
 
-<a href="https://linkedin.com/in/bagomwaraphael">
+<a href="https://linkedin.com/in/bagomwa-raphael">
   <img src="https://cdn.simpleicons.org/linkedin" width="30" height="30" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;
