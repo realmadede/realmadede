@@ -1,6 +1,8 @@
 Hello! 👋
 
 This is my profile page. I am a Computer Science student specializing in Software Engineering, Cyber Security, Networking, and Systems.
+Below is my Git Score,
+[![GitScore](https://www.gitscore.live/api/badge/realmadede)](https://www.gitscore.live/realmadede)
 
 Let's connect
 <ul>
