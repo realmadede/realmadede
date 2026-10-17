@@ -6,6 +6,7 @@ Below is my Git Score.
 <br>
 <br>
 [![GitScore](https://www.gitscore.live/api/badge/realmadede)](https://www.gitscore.live/realmadede)
+
 Let's connect
 <ul>
   <li><a href="https://linkedin.com/in/bagomwa-raphael">LinkedIn</a></li>
