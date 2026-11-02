@@ -5,7 +5,12 @@ This is my profile page. I am a Computer Science student specializing in Softwar
 Below is my Git Score.
 <br>
 <br>
-[![GitScore](https://www.gitscore.live/api/badge/realmadede)](https://www.gitscore.live/realmadede)
+<a href="https://gitscore.live/realmadede">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/realmadede?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/realmadede?style=card" alt="GitScore for realmadede" />
+  </picture>
+</a>
 
 Let's connect
 <ul>
